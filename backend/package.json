@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend of  a registration form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bharatdwaj3/Mern_1_Pjt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bharatdwaj3/Mern_1_Pjt/issues"
+  },
+  "homepage": "https://github.com/Bharatdwaj3/Mern_1_Pjt#readme"
+}
